@@ -1,1 +1,1 @@
-# ARWaypoint
+# WaypointAR
